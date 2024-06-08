@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cpvivek
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Machine Learning
-- 💞️ I’m looking to collaborate on anything and everything
+- 💞️ I’m looking to collaborate on anything and everything data
 - 📫 How to reach me: cpvivek1@gmail.com
 
 <!---
